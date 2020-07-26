@@ -5,12 +5,6 @@
     <p><a href="https://www.linkedin.com/in/arissetia/"><img alt="LinkedIn @arissetia" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=3677B5&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> See my Profil on Linkedin</small></p>
 </div>
 
-[![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
+![Sponsor Aris](https://raw.githubusercontent.com/madebyaris/madebyaris/master/github%20cover%20page%20-%201280%20x%20300.png)
 
 <small><strong> Awesome Web Engineer</strong></small>
-
-[s]: https://github.com/AhmadAwais/sponsor
-[n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile
-[v]: https://VSCode.pro?utm_source=github&utm_medium=referral&utm_campaign=profile
-[d]: https://DenoBeginner.com?utm_source=github&utm_medium=referral&utm_campaign=profile
-[g]: https://github.com/AhmadAwais
