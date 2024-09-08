@@ -10,3 +10,7 @@
 ![Sponsor Aris](https://raw.githubusercontent.com/madebyaris/madebyaris/master/github%20cover%20page%20-%201280%20x%20300.png)
 
 <small><strong> Awesome Web Engineer</strong></small>
+
+![madebyaris's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyaris&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![madebyaris's Streak](https://github-readme-streak-stats.herokuapp.com/?user=madebyaris&theme=tokyonight&hide_border=false)
+![madebyaris's Stats](https://github-readme-stats.vercel.app/api?username=madebyaris&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
